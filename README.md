@@ -4,6 +4,7 @@ Bella90
 Charlot80
 Char100
 Char100
+Char100
 Bella90
 Bella90
 Bella90
