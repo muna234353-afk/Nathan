@@ -6,6 +6,7 @@ Char100
 Char100
 Char100
 Char100
+Char100
 Bella90
 Bella90
 Bella90
